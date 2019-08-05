@@ -25,7 +25,7 @@ SECRET_KEY = '=f%ns04d@z9na8xh(kfo8v8aa-v2p0bcn^jukrh4dm_^=zq70$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['naitik.pythonanywhere.com']
 
 
 # Application definition
